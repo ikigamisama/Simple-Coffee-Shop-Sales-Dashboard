@@ -2,6 +2,8 @@
 
 An interactive sales analytics dashboard built with Streamlit and Plotly for visualizing coffee shop business metrics and trends.
 
+🔗 **[Live Dashboard](https://simple-coffee-shop-sales-dashboard-iki.streamlit.app)**
+
 ## 📊 Dashboard Overview
 
 This dashboard provides comprehensive insights into coffee shop sales performance through interactive visualizations and key performance indicators.
